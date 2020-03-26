@@ -1,0 +1,14 @@
+{
+  "name": "web-coursera",
+  "version": "1.0.0",
+  "description": "test for learn",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youssef",
+  "license": "ISC"
+}
