@@ -10,7 +10,8 @@
 }
 
 .footer{
-  background-color: #000;
+  background-color: #000839;
+  color: white;
   margin: 0px auto;
   padding: 20px 0px 20px 0px;
 }
@@ -18,7 +19,7 @@
 .jumbotron{
   margin: 0px auto;
   padding: 70px 10px 70px 30px;
-  background: #87CEEB;
+  background: #10375c;
   color: white;
 }
 
@@ -28,13 +29,17 @@
   margin: 0px;
 }
 
+.navbar-dark {
+  background-color: #000000; }
+
+
 body{
   padding: 50px 0px 0px 0px;
   z-index: 0;
 }
 
 .carousel{
-  background-color: #286882;
+  background-color: #005082;
 }
 .carousel-item{
   height: 300px;
