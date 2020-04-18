@@ -1,2 +1,3 @@
 # front-end project1
-a simple front-end website project
+a simple website project
+Using bootstrap 4
