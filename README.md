@@ -1,4 +1,6 @@
 # front-end project1
-a simple website project
-Using bootstrap 4
-and Sass
+an experimental front-end site project, I used :
+* bootstrap 4
+* Sass / less
+* gulp / grunt Task Runners
+* jquery
